@@ -1,0 +1,180 @@
+@media (min-width: 900px) {
+
+body {
+    margin:0px; 
+    background-color:lightgreen;
+}
+
+.navbar {
+    padding:10px;
+    border-bottom:white 1px dashed;
+    /* background-color:#B1D7B4; */
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+.navbar h1 {
+    font-weight:bold;
+    font-size:2.5rem;
+    word-spacing: 4px;
+    font-family: 'Aref Ruqaa Ink', serif;
+    margin-left:8%;
+    display:inline;
+}
+
+.navbar a {
+    font-family: 'Lato', sans-serif;
+    font-size:1.5rem;
+    text-decoration: none;
+    color:black;
+    margin-right:20px;
+    font-weight:600;
+}
+
+
+.navbar a:first-of-type {
+    margin-left: 10%;
+}
+
+.button:first-of-type {
+    margin-left:14%;
+}
+
+h2 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:10%;
+    font-family: 'Raleway', sans-serif;
+    font-size:5rem;
+}
+
+h5 {
+    text-align:center;
+    padding-top:5%;
+    font-size:1.5rem;
+    color:gray;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+}
+
+@media (min-width:768px) {
+
+body {
+    margin:0px; 
+    background-color:lightgreen;
+}
+
+.navbar {
+    padding:10px;
+    border-bottom:white 1px dashed;
+    /* background-color:#B1D7B4; */
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+.navbar h1 {
+    font-weight:bold;
+    font-size:2.5rem;
+    word-spacing: 4px;
+    font-family: 'Aref Ruqaa Ink', serif;
+    margin-left:8%;
+    display:inline;
+}
+
+.navbar a {
+    font-family: 'Lato', sans-serif;
+    font-size:1.5rem;
+    text-decoration: none;
+    color:black;
+    margin-right:8px;
+    font-weight:600;
+}
+
+
+.navbar a:first-of-type {
+    margin-left: 10%;
+}
+
+.button:first-of-type {
+    margin-left:14%;
+}
+
+h2 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:10%;
+    font-family: 'Raleway', sans-serif;
+    font-size:5rem;
+}
+
+h5 {
+    text-align:center;
+    padding-top:5%;
+    font-size:1.5rem;
+    color:gray;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+}
+
+@media (max-width: 768px) {
+
+body {
+    margin:0px; 
+    background-color:lightgreen;
+}
+
+.navbar {
+    padding:10px;
+    border-bottom:white 1px dashed;
+    /* background-color:#B1D7B4; */
+    background-color: white;
+    padding-bottom: 30px;
+}
+
+.navbar h1 {
+    font-weight:bold;
+    font-size:2.5rem;
+    word-spacing: 4px;
+    font-family: 'Aref Ruqaa Ink', serif;
+    margin-left:8%;
+    display:inline;
+}
+
+.navbar a {
+    font-family: 'Lato', sans-serif;
+    font-size:1.5rem;
+    text-decoration: none;
+    color:black;
+    margin-right:5px;
+    font-weight:600;
+}
+
+
+.navbar a:first-of-type {
+    margin-left: 1px;
+}
+
+.button:first-of-type {
+    margin-left:14%;
+}
+
+h2 {
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    padding-top:10%;
+    font-family: 'Raleway', sans-serif;
+    font-size:5rem;
+}
+
+h5 {
+    text-align:center;
+    padding-top:5%;
+    font-size:1.5rem;
+    color:gray;
+    font-family: 'Roboto Condensed', sans-serif;
+}
+}
+
